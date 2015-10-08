@@ -37,7 +37,7 @@ int main ()
    for(c=0; c<paramet; c++)
  {
  for (d=0; d<paramet; d++)
- printf("%d\+", multiplicar[c][d]);
+ printf("%d\", multiplicar[c][d]);
   printf("\n");
 }
 return 0;
